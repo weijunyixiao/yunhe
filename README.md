@@ -4,7 +4,7 @@
 
 云盒网络科技有限公司成立于2018年，是一家具有ISP、IDC等资质的互联网数据中心业务服务商。公司拥有近6年的行业服务经验，为国内外的大中小政企客户提供专业的IDC解决方案及高效的技术服务，并多次获得“IDC优质服务商”的荣誉。
 
-![Uploading image.png…]()
+![image](https://github.com/weijunyixiao/yunhe/assets/167593860/ad8b52c8-3e8e-4287-a451-d22fbcefa1cc)
 
 ## 云盒网络 官网地址
 
